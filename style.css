@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.new_page_bg_container {
+    background-image: url(' https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.new_of_the_day_card_container {
+    background-color: #ffffff;
+    font-family: 'Roboto';
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    padding: 24px;
+}
+
+.new_of_the_day_card_heading_container {
+    color: #7b8794;
+    font-family: 'Roboto';
+    font-size: 12px;
+}
+
+.new_of_the_day_card_heading {
+    color: #323f4b;
+    font-size: 16px;
+}
+
+.new_of_the_day_card_description {
+    color: #7b8794;
+    font-size: 12px;
+}
+
+.button {
+    background-color: #323f4b;
+    color: #ffffff;
+    border-radius: 10px;
+    width: 110px;
+    padding: 10px;
+    font-size: 12px;
+}

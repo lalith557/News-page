@@ -1,2 +1,2 @@
 # News-page
-News Page with HTML &amp; CSS
+News Page with HTML , CSS and Bootstrap
